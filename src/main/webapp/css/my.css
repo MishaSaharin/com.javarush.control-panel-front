@@ -1,0 +1,48 @@
+body {
+    font-family: "JetBrains Mono", cursive;
+    font-size: 14px;
+    background-color: #F5FFFA;
+    color: #708090;
+}
+
+h1 {
+    color: blue;
+    font-size: 64px;
+    font-family: "JetBrains Mono ExtraBold", fantasy;
+    font-weight: normal;
+    text-align: center;
+}
+
+h2 {
+    color: green;
+    font-size: 32px;
+    font-family: "Times New Roman", emoji;
+    font-weight: normal;
+    text-align: justify;
+}
+
+h3 {
+    color: red;
+    font-size: 24px;
+    font-family: "Liberation Sans Narrow", cursive;
+    font-weight: normal;
+    text-align: justify;
+    align-content: center;
+}
+
+th, td {
+    border: 1px solid black;
+    padding: 2px;
+}
+
+table {
+    color: black;
+    text-align: center;
+    align-self: auto;
+    align-content: center;
+}
+
+label {
+    align-self: auto;
+}
+
